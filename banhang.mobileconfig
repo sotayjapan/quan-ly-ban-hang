@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.vip.security.restrictions.standard</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>B1A2C3D4-E5F6-7G8H-9I0J-K1L2M3N4O5P6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAppInstallation</key>
+			<false/>
+			<key>allowAppRemoval</key>
+			<false/>
+			<key>allowCamera</key>
+			<false/>
+			<key>allowFaceTime</key>
+			<false/>
+			<key>allowSafari</key>
+			<false/>
+			<key>allowScreenShot</key>
+			<false/>
+			<key>allowScreenRecording</key>
+			<false/>
+			<key>allowiTunes</key>
+			<false/>
+			<key>allowInAppPurchases</key>
+			<false/>
+			<key>allowPairedWatch</key>
+			<false/>
+			<key>ratingApps</key>
+			<integer>100</integer>
+		</dict>
+		<dict>
+			<key>AutoFilterEnabled</key>
+			<true/>
+			<key>BlacklistedURLs</key>
+			<array>
+				<string>facebook.com</string>
+				<string>messenger.com</string>
+				<string>instagram.com</string>
+				<string>youtube.com</string>
+				<string>tiktok.com</string>
+				<string>google.com</string>
+			</array>
+			<key>FilterType</key>
+			<string>BuiltIn</string>
+			<key>PayloadIdentifier</key>
+			<string>com.vip.security.webfilter</string>
+			<key>PayloadType</key>
+			<string>com.apple.webcontent-filter</string>
+			<key>PayloadUUID</key>
+			<string>C2D3E4F5-G6H7-8I9J-0K1L-M2N3O4P5Q6R7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Profile Removal Password</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.profileRemovalPassword.2b19327a-1314-49bf-b03b-2ca6d89243f4</string>
+			<key>PayloadType</key>
+			<string>com.apple.profileRemovalPassword</string>
+			<key>PayloadUUID</key>
+			<string>2b19327a-1314-49bf-b03b-2ca6d89243f4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>RemovalPassword</key>
+			<string>838689</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Security Code: 838689. He thong quan ly ban hang VIP.</string>
+	<key>PayloadDisplayName</key>
+	<string>SYSTEM SECURITY VIP v6.0</string>
+	<key>PayloadIdentifier</key>
+	<string>com.vip.secure.838689</string>
+	<key>PayloadOrganization</key>
+	<string>QUAN LY BAN HANG</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E4F5G6H7-I8J9-0K1L-2M3N-O4P5Q6R7S8T9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
