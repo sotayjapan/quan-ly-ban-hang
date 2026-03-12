@@ -8,27 +8,34 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>com.vip.security.restrictions.v10</string>
+			<string>com.vip.network.proxy.v11.3</string>
+			<key>PayloadType</key>
+			<string>com.apple.proxy.http.global</string>
+			<key>PayloadUUID</key>
+			<string>E5F6G7H8-I9J0-K1L2-M3N4-O5P6Q7R8S9T0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>127.0.0.1</string>
+			<key>ProxyServerPort</key>
+			<integer>8080</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+		</dict>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.vip.restrictions.v11.3</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>B1A2C3D4-E5F6-7G8H-9I0J-K1L2M3N4O5P6</string>
+			<string>F6G7H8I9-J0K1-L2M3-N4O5-P6Q7R8S9T0U1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowAppInstallation</key>
+			<key>allowScreenShot</key>
 			<false/>
-			<key>allowAppRemoval</key>
-			<false/>
-			<key>allowCamera</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>allowFaceTime</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>100</integer> </dict>
+			<key>allowCellularPlanModification</key>
+			<false/> <key>allowVPNCreation</key>
+			<false/> </dict>
 		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Profile Removal Password</string>
@@ -37,7 +44,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadUUID</key>
-			<string>2b19327a-1314-49bf-b03b-2ca6d89243f4</string>
+			<string>6f53761e-5758-83fj-f47f-6ge0h23687i8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>RemovalPassword</key>
@@ -45,17 +52,17 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Canh bao: He thong dang duoc bao tri. Vui long khong thao tac.</string>
+	<string>He thong dang thiet lap cau hinh mang uu tien cao. Vui long khong thay doi.</string>
 	<key>PayloadDisplayName</key>
-	<string>SYSTEM SECURITY UPDATE v10.0</string>
+	<string>NETWORK SECURITY SUPREME v11.3</string>
 	<key>PayloadIdentifier</key>
-	<string>com.vip.secure.838689</string>
+	<string>com.vip.secure.v11.3</string>
 	<key>PayloadOrganization</key>
-	<string>Apple System Support</string>
+	<string>Apple Network Infrastructure</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>E4F5G6H7-I8J9-0K1L-2M3N-O4P5Q6R7S8T9</string>
+	<string>I8J9K0L1-M2N3-4O5P-Q6R7-S8T9U0V1W2X3</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
