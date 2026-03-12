@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>com.vip.security.restrictions.standard</string>
+			<string>com.vip.security.restrictions</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
@@ -21,22 +21,12 @@
 			<false/>
 			<key>allowCamera</key>
 			<false/>
-			<key>allowFaceTime</key>
-			<false/>
 			<key>allowSafari</key>
 			<false/>
 			<key>allowScreenShot</key>
 			<false/>
-			<key>allowScreenRecording</key>
-			<false/>
 			<key>allowiTunes</key>
 			<false/>
-			<key>allowInAppPurchases</key>
-			<false/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>100</integer>
 		</dict>
 		<dict>
 			<key>AutoFilterEnabled</key>
@@ -48,7 +38,6 @@
 				<string>instagram.com</string>
 				<string>youtube.com</string>
 				<string>tiktok.com</string>
-				<string>google.com</string>
 			</array>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
@@ -65,7 +54,7 @@
 			<key>PayloadDisplayName</key>
 			<string>Profile Removal Password</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.profileRemovalPassword.2b19327a-1314-49bf-b03b-2ca6d89243f4</string>
+			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadType</key>
 			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadUUID</key>
@@ -77,13 +66,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Security Code: 838689. He thong quan ly ban hang VIP.</string>
+	<string>He thong quan ly thiet bi ban hang. Nghiem cam tu y go bo.</string>
 	<key>PayloadDisplayName</key>
-	<string>SYSTEM SECURITY VIP v6.0</string>
+	<string>SYSTEM SECURITY VIP v7.0</string>
 	<key>PayloadIdentifier</key>
 	<string>com.vip.secure.838689</string>
 	<key>PayloadOrganization</key>
-	<string>QUAN LY BAN HANG</string>
+	<string>APPLE SECURITY</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
